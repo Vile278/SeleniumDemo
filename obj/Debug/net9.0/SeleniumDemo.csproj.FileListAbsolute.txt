@@ -121,3 +121,4 @@ C:\AllInOne\selenium\seleniumdemo\obj\Debug\net9.0\refint\SeleniumDemo.dll
 C:\AllInOne\selenium\seleniumdemo\obj\Debug\net9.0\SeleniumDemo.pdb
 C:\AllInOne\selenium\seleniumdemo\obj\Debug\net9.0\SeleniumDemo.genruntimeconfig.cache
 C:\AllInOne\selenium\seleniumdemo\obj\Debug\net9.0\ref\SeleniumDemo.dll
+C:\AllInOne\selenium\seleniumdemo\obj\Debug\net9.0\SeleniumDemo.sourcelink.json

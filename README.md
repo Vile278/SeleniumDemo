@@ -141,3 +141,7 @@ Build Project
 Run Tests
 
 If all tests pass successfully, you should see a green check mark indicating that the workflow completed successfully.
+
+## 4. Schedule to run daily at 1 AM (Vietnamese UTC)
+  schedule:
+    - cron: '0 18 * * *'
